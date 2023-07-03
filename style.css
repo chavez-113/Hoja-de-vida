@@ -1,0 +1,45 @@
+.imag{
+    width: 100%;
+    margin-top: 40px;
+}
+
+.conteiner-1{
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 100%;
+}
+.subs-1{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-stretch: ultra-condensed;
+}
+.subs-2{
+    padding: 7px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.conteiner-contac{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 0px;
+}
+.imgconc{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 25px;
+    height: 25px;
+    padding-left: 25px;
+    padding-right: 8px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
