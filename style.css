@@ -1,3 +1,7 @@
+.boddy{
+    padding: 0px;
+    margin: 0px;
+}
 .imag{
     width: 100%;
     margin-top: 40px;
@@ -7,7 +11,7 @@
     background-color: blueviolet;
     display: flex;
     flex-direction: column;
-    width: 30%;
+    width: 34%;
     height: 100%;
 }
 .subs-1{
@@ -43,3 +47,11 @@
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
 }
+.conteiner-info{
+    padding-top: 5px;
+}
+.conteiner-1{
+    color: aliceblue;
+}
+
+
