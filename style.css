@@ -54,4 +54,92 @@
     color: aliceblue;
 }
 
+.conteiner-skills{
+    display: flex;
+}
+.subs-2-1{
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 14px;
+    margin-left: 10px;
+}
+.barra-1-1{
+    width: 100px;
+    position: relative;
+}
+.barra-2-2{
+    background-color: aliceblue;
+    width: 140px;
+    height: 13%;
+    margin-bottom: 21px;
+    margin-left: 8px;
+    border-radius: 20px;
+}
+.barra-2-2-1{
+    background-color: aliceblue;
+    width: 120px;
+    height: 13%;
+    margin-bottom: 21px;
+    margin-left: 8px;
+    border-radius: 20px;
+}
+.barra-1{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.barra-2{
+    background-color: black;
+    display: flex;
+    width: 70px;
+    height: 20px;
+    margin-bottom: 24px;
+    margin-left: 8px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.subs-sw{
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 14px;
+    margin-left: 10px;
+    padding-bottom: 8px;
+}
+.barra-sw-1{
+    width: 100px;
+    position: relative;
+    margin-left: 80px;
+}
+.barra-sw-1-1{
+    background-color: aliceblue;
+    width: 140px;
+    height: 13%;
+    margin-bottom: 21px;
+    margin-left: 8px;
+    border-radius: 20px;
+}
+.barra-sw-1-1-1{
+    background-color: aliceblue;
+    width: 120px;
+    height: 13%;
+    margin-bottom: 21px;
+    margin-left: 8px;
+    border-radius: 20px;
+}
+.barra-sw-2{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.barra-sw-2-2{
+    background-color: black;
+    display: flex;
+    width: 70px;
+    height: 20px;
+    margin-bottom: 24px;
+    margin-left: 8px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
 
